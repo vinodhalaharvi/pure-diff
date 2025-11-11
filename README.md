@@ -1,5 +1,9 @@
 # pure-diff
 
+
+https://github.com/user-attachments/assets/6ccd7098-539a-4d5f-bba9-28ecef530cba
+
+
 Content-based file deduplication. Finds partial matches, not just exact duplicates.
 
 ## Install
